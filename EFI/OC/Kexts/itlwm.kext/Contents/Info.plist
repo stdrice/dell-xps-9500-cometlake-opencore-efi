@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>19H2026</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>itlwm</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.zxystd.itlwm</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>itlwm</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.3.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>2.3.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>11E801a</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>19G68</string>
+	<key>DTSDKName</key>
+	<string>macosx10.15</string>
+	<key>DTXcode</key>
+	<string>1170</string>
+	<key>DTXcodeBuild</key>
+	<string>11E801a</string>
+	<key>IOKitPersonalities</key>
+	<dict>
+		<key>itlwm</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.zxystd.itlwm</string>
+			<key>IOClass</key>
+			<string>itlwm</string>
+			<key>IOMatchCategory</key>
+			<string>IODefaultMatchCategory</string>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0x00008086&amp;0x0000ffff</string>
+			<key>IOProbeScore</key>
+			<integer>2000</integer>
+			<key>IOProviderClass</key>
+			<string>IOPCIDevice</string>
+			<key>IOUserClientClass</key>
+			<string>ItlNetworkUserClient</string>
+			<key>WiFiConfig</key>
+			<dict>
+				<key>WiFi_1</key>
+				<dict>
+					<key>password</key>
+					<string>14092007</string>
+					<key>ssid</key>
+					<string>m</string>
+				</dict>
+				<key>WiFi_10</key>
+				<dict>
+					<key>password</key>
+					<string>linhdanbi1</string>
+					<key>ssid</key>
+					<string>Thuydat_5G</string>
+				</dict>
+				<key>WiFi_11</key>
+				<dict>
+					<key>password</key>
+					<string>linhdanbi1</string>
+					<key>ssid</key>
+					<string>Thuydat</string>
+				</dict>
+				<key>WiFi_12</key>
+				<dict>
+					<key>password</key>
+					<string>linhdanvi1</string>
+					<key>ssid</key>
+					<string>ThuyDat 5G</string>
+				</dict>
+				<key>WiFi_13</key>
+				<dict>
+					<key>password</key>
+					<string>Sdkb2025@</string>
+					<key>ssid</key>
+					<string>Song Da Kinh Bac</string>
+				</dict>
+				<key>WiFi_14</key>
+				<dict>
+					<key>password</key>
+					<string>0966040222</string>
+					<key>ssid</key>
+					<string>Quan T1</string>
+				</dict>
+				<key>WiFi_15</key>
+				<dict>
+					<key>password</key>
+					<string>phkgt@123</string>
+					<key>ssid</key>
+					<string>Phòng họp</string>
+				</dict>
+				<key>WiFi_16</key>
+				<dict>
+					<key>password</key>
+					<string>tnmt1015</string>
+					<key>ssid</key>
+					<string>Phong TNMT</string>
+				</dict>
+				<key>WiFi_17</key>
+				<dict>
+					<key>password</key>
+					<string>12345678</string>
+					<key>ssid</key>
+					<string>Phong NN</string>
+				</dict>
+				<key>WiFi_18</key>
+				<dict>
+					<key>password</key>
+					<string>ubndhbt321</string>
+					<key>ssid</key>
+					<string>Phong Hop T3</string>
+				</dict>
+				<key>WiFi_19</key>
+				<dict>
+					<key>password</key>
+					<string>888899999</string>
+					<key>ssid</key>
+					<string>PhoTo An Phu</string>
+				</dict>
+				<key>WiFi_2</key>
+				<dict>
+					<key>password</key>
+					<string>linhdanbi1</string>
+					<key>ssid</key>
+					<string>iPhone</string>
+				</dict>
+				<key>WiFi_20</key>
+				<dict>
+					<key>password</key>
+					<string>12345678</string>
+					<key>ssid</key>
+					<string>PHONG NONG NGHIEP</string>
+				</dict>
+				<key>WiFi_21</key>
+				<dict>
+					<key>password</key>
+					<string>12345678@</string>
+					<key>ssid</key>
+					<string>PHONG NN PTNT SMC</string>
+				</dict>
+				<key>WiFi_22</key>
+				<dict>
+					<key>password</key>
+					<string>pctnxh@bdg</string>
+					<key>ssid</key>
+					<string>PCTNXHBDG</string>
+				</dict>
+				<key>WiFi_23</key>
+				<dict>
+					<key>password</key>
+					<string>lamgay07</string>
+					<key>ssid</key>
+					<string>OPPO Find X6 Pro A9FA</string>
+				</dict>
+				<key>WiFi_24</key>
+				<dict>
+					<key>password</key>
+					<string>12345678</string>
+					<key>ssid</key>
+					<string>OPPO A31</string>
+				</dict>
+				<key>WiFi_25</key>
+				<dict>
+					<key>password</key>
+					<string>htxlaocai</string>
+					<key>ssid</key>
+					<string>OCOP</string>
+				</dict>
+				<key>WiFi_26</key>
+				<dict>
+					<key>password</key>
+					<string>123456789</string>
+					<key>ssid</key>
+					<string>Nha Da Nang 4</string>
+				</dict>
+				<key>WiFi_27</key>
+				<dict>
+					<key>password</key>
+					<string>27102007</string>
+					<key>ssid</key>
+					<string>MinhPhuong</string>
+				</dict>
+				<key>WiFi_28</key>
+				<dict>
+					<key>password</key>
+					<string>68686868</string>
+					<key>ssid</key>
+					<string>MINH DUNG T4</string>
+				</dict>
+				<key>WiFi_29</key>
+				<dict>
+					<key>password</key>
+					<string>68686868</string>
+					<key>ssid</key>
+					<string>MINH DUNG T2</string>
+				</dict>
+				<key>WiFi_3</key>
+				<dict>
+					<key>password</key>
+					<string>zplus2022</string>
+					<key>ssid</key>
+					<string>Zin100 Authentic 2.4G</string>
+				</dict>
+				<key>WiFi_30</key>
+				<dict>
+					<key>password</key>
+					<string>vnptlaocai</string>
+					<key>ssid</key>
+					<string>Lop 12A2</string>
+				</dict>
+				<key>WiFi_31</key>
+				<dict>
+					<key>password</key>
+					<string>vnptlaocai</string>
+					<key>ssid</key>
+					<string>Lop 11C3</string>
+				</dict>
+				<key>WiFi_32</key>
+				<dict>
+					<key>password</key>
+					<string>vnptlaocai</string>
+					<key>ssid</key>
+					<string>Lop 10D1</string>
+				</dict>
+				<key>WiFi_33</key>
+				<dict>
+					<key>password</key>
+					<string>vnptlaocai</string>
+					<key>ssid</key>
+					<string>Lop 10A2</string>
+				</dict>
+				<key>WiFi_34</key>
+				<dict>
+					<key>password</key>
+					<string>88888888</string>
+					<key>ssid</key>
+					<string>Ks HaThanh t6.1</string>
+				</dict>
+				<key>WiFi_35</key>
+				<dict>
+					<key>password</key>
+					<string>88888888</string>
+					<key>ssid</key>
+					<string>Ks HaThanh t5.4</string>
+				</dict>
+				<key>WiFi_36</key>
+				<dict>
+					<key>password</key>
+					<string>88888888</string>
+					<key>ssid</key>
+					<string>Ks HaThanh T6.4</string>
+				</dict>
+				<key>WiFi_37</key>
+				<dict>
+					<key>password</key>
+					<string>88888888</string>
+					<key>ssid</key>
+					<string>Ks Ha Thanh T6.2</string>
+				</dict>
+				<key>WiFi_38</key>
+				<dict>
+					<key>password</key>
+					<string>999999999</string>
+					<key>ssid</key>
+					<string>Khoi Xuan</string>
+				</dict>
+				<key>WiFi_39</key>
+				<dict>
+					<key>password</key>
+					<string>01072002</string>
+					<key>ssid</key>
+					<string>Khanh Binh T2</string>
+				</dict>
+				<key>WiFi_4</key>
+				<dict>
+					<key>password</key>
+					<string>123a123A</string>
+					<key>ssid</key>
+					<string>Wifi Nha hop khoi</string>
+				</dict>
+				<key>WiFi_40</key>
+				<dict>
+					<key>password</key>
+					<string>888888888</string>
+					<key>ssid</key>
+					<string>KHACH SAN T7</string>
+				</dict>
+				<key>WiFi_41</key>
+				<dict>
+					<key>password</key>
+					<string>sonnptnt</string>
+					<key>ssid</key>
+					<string>HoiTruong_SNN1</string>
+				</dict>
+				<key>WiFi_42</key>
+				<dict>
+					<key>password</key>
+					<string>htxlaocai</string>
+					<key>ssid</key>
+					<string>Hoi Truong CCPTNT</string>
+				</dict>
+				<key>WiFi_43</key>
+				<dict>
+					<key>password</key>
+					<string>88888888</string>
+					<key>ssid</key>
+					<string>Hoi Truong</string>
+				</dict>
+				<key>WiFi_44</key>
+				<dict>
+					<key>password</key>
+					<string>88888888</string>
+					<key>ssid</key>
+					<string>Ha Thanh VNPT T6</string>
+				</dict>
+				<key>WiFi_45</key>
+				<dict>
+					<key>password</key>
+					<string>p@ssw0rd</string>
+					<key>ssid</key>
+					<string>Galaxy S6 Ultra</string>
+				</dict>
+				<key>WiFi_46</key>
+				<dict>
+					<key>password</key>
+					<string>66668888</string>
+					<key>ssid</key>
+					<string>GAME-VIP</string>
+				</dict>
+				<key>WiFi_47</key>
+				<dict>
+					<key>password</key>
+					<string>19931993</string>
+					<key>ssid</key>
+					<string>Cafe 1988</string>
+				</dict>
+				<key>WiFi_48</key>
+				<dict>
+					<key>password</key>
+					<string>123456789</string>
+					<key>ssid</key>
+					<string>CHANH VAN PHONG</string>
+				</dict>
+				<key>WiFi_49</key>
+				<dict>
+					<key>password</key>
+					<string>hoilamgi</string>
+					<key>ssid</key>
+					<string>BietDoiCamera2.4G</string>
+				</dict>
+				<key>WiFi_5</key>
+				<dict>
+					<key>password</key>
+					<string>12345678</string>
+					<key>ssid</key>
+					<string>VP SNNPTNT</string>
+				</dict>
+				<key>WiFi_50</key>
+				<dict>
+					<key>password</key>
+					<string>88888888</string>
+					<key>ssid</key>
+					<string>Anh Duong</string>
+				</dict>
+				<key>WiFi_51</key>
+				<dict>
+					<key>password</key>
+					<string>0385686886</string>
+					<key>ssid</key>
+					<string>AndroidAP055B</string>
+				</dict>
+				<key>WiFi_52</key>
+				<dict>
+					<key>password</key>
+					<string>12346789</string>
+					<key>ssid</key>
+					<string>3A2</string>
+				</dict>
+				<key>WiFi_53</key>
+				<dict>
+					<key>password</key>
+					<string>88888888</string>
+					<key>ssid</key>
+					<string>24+Tang2</string>
+				</dict>
+				<key>WiFi_54</key>
+				<dict>
+					<key>password</key>
+					<string>07052009</string>
+					<key>ssid</key>
+					<string>Nghe Be</string>
+				</dict>
+				<key>WiFi_6</key>
+				<dict>
+					<key>password</key>
+					<string>vnptlaocai</string>
+					<key>ssid</key>
+					<string>VNPT LAO CAI</string>
+				</dict>
+				<key>WiFi_7</key>
+				<dict>
+					<key>password</key>
+					<string>123456789</string>
+					<key>ssid</key>
+					<string>VNPT</string>
+				</dict>
+				<key>WiFi_8</key>
+				<dict>
+					<key>password</key>
+					<string>66668888</string>
+					<key>ssid</key>
+					<string>UBND_03</string>
+				</dict>
+				<key>WiFi_9</key>
+				<dict>
+					<key>password</key>
+					<string>ubnd12345</string>
+					<key>ssid</key>
+					<string>UBND THI XA SAPA</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.9</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2020 钟先耀. All rights reserved.</string>
+	<key>OSBundleLibraries</key>
+	<dict>
+		<key>com.apple.iokit.IONetworkingFamily</key>
+		<string>1.5.0</string>
+		<key>com.apple.iokit.IOPCIFamily</key>
+		<string>1.7</string>
+		<key>com.apple.kpi.bsd</key>
+		<string>8.10.0</string>
+		<key>com.apple.kpi.iokit</key>
+		<string>8.10.0</string>
+		<key>com.apple.kpi.libkern</key>
+		<string>8.10.0</string>
+		<key>com.apple.kpi.mach</key>
+		<string>8.10.0</string>
+	</dict>
+	<key>OSBundleRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
