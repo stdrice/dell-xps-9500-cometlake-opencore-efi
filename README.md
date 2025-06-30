@@ -63,7 +63,7 @@ setup_var CpuSetup 0xDA 0x00 # Disable Overclocking Lock
 ```
 sudo pmset -a hibernatemode 25
 sudo pmset -a standby 1
-sudo pmset -a powernap 1
+sudo pmset -a powernap 0
 sudo pmset -a sleep 1
 sudo pmset -a standbydelaylow 1
 sudo pmset -a standbydelayhigh 1
@@ -71,6 +71,7 @@ sudo pmset -a womp 0
 sudo pmset -a proximitywake 0
 ```
 - Install [HeliPort](https://github.com/OpenIntelWireless/HeliPort) to control Wi-Fi
+- Install [BlueSnooze](https://github.com/odlp/bluesnooze) to fix Bluetooth not working after sleep
 - Undervolt with [VoltageShift](https://github.com/sicreative/VoltageShift)
 ```
 sudo ./voltageshift buildlaunchd -100 -60 -95 0 0 1 45 90 1 160
