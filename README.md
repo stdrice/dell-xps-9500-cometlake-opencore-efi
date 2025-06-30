@@ -71,3 +71,4 @@ sudo pmset -a womp 0
 sudo pmset -a proximitywake 0
 ```
 - Install [HeliPort](https://github.com/OpenIntelWireless/HeliPort) to control Wi-Fi
+- Install [One Key HiDPI](https://github.com/xzhih/one-key-hidpi) for HiDPI
