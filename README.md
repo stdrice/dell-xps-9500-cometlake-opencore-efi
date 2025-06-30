@@ -71,3 +71,7 @@ sudo pmset -a womp 0
 sudo pmset -a proximitywake 0
 ```
 - Install [HeliPort](https://github.com/OpenIntelWireless/HeliPort) to control Wi-Fi
+- Undervolt with [VoltageShift](https://github.com/sicreative/VoltageShift)
+```
+sudo ./voltageshift buildlaunchd -100 -60 -95 0 0 1 45 90 1 160
+```
