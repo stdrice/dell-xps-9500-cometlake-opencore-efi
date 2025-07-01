@@ -28,11 +28,11 @@
 - Camera, microphone
 - Sleep (S4 Sleep, actually hibernate)
 - iServices
+- DRM (Apple Music, ...)
 - You tell me
 
 # Not working
 - AirDrop (Intel wifi, itlwm)
-- DRM barely working
 - dGPU (NVIDIA Turing)
 - S3 Sleep (Dell quirkiness)
 - Fingerprint, Face unlock (No Apple T2 chip on Hackintosh)
